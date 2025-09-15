@@ -75,3 +75,10 @@ nav ul li {
     overflow-y: scroll;
 }
 
+.introduction p {
+    line-height: 1.7;
+}
+
+.introduction p:not(first-child) {
+    padding-top: 20px;
+}
