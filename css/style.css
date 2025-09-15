@@ -1,3 +1,45 @@
-body {
-    background-color: purple;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
 }
+
+body {
+    font-family:'lato', Arial, Helvetica, serif;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+    background-color: #EEE;
+}
+
+header {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+}
+
+.logo {
+    width: 50%;
+}
+
+nav {
+    width: 50%;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul li {
+
+}
+
