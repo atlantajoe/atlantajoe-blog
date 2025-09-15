@@ -1,2 +1,2 @@
-# atlantajoe-blug
-My professional blog
+# atlantajoe-blog
+- My personal and professional blog. Here, I'd like to write about technology and other things. More to come, so please stay tuned...
