@@ -130,8 +130,8 @@ nav ul li {
 }
 
 .about-peek-image img {
-    width: 50%;
-    border-radius: 100%;
+    width: 75%;
+    border-radius: 25px;
     border: 2px solid #999;
 }
 
