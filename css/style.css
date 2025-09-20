@@ -189,6 +189,23 @@ nav ul li {
     padding-bottom: 20px;
 }
 
+/* ********** CONTACT FORM SECTION STYLES ********** */
+
+.contact-form {
+    width: 100%;
+    height: 400px;
+    padding: 25px;
+}
+
+.contact-form p {
+    padding: 10px 0;
+}
+
+input[type=text], input[type=email], textarea, button {
+    width: 100%;
+    padding: 7px 0;
+}
+
 /* ********** BLOG-PEEK SECTION STYLES ********** */
 
 .blog-peek {
